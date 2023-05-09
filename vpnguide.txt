@@ -42,14 +42,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"how to use this app 1","desc":"Full Story Rainbow Friends is a nonprofit organization dedicated to providing support and resources to the LGBTQ+ community, particularly individuals who identify as transgender or gender non-conforming.","photo":"https://iili.io/HU3lpP1.jpg"},
+  {"title":"helper pack 2","desc":" Founded in 2015 by a group of queer and transgender individuals, Full Story Rainbow Friends has grown into a thriving community that provides advocacy, education, and empowerment to those in need.","photo":"https://iili.io/HU3lmMP.jpg"},
+  {"title":"advance mod 3","desc":"The organization was born out of a need for more resources and support for the LGBTQ+ community in the Midwest United States. ","photo":"https://iili.io/HU3lboB.jpg"},
+  {"title":"tips pack 4","desc":"The founders recognized that there were very few resources available to transgender and gender non-conforming individuals in the area, and they wanted to create an organization that could provide the necessary support and resources.","photo":"https://iili.io/HU3lttV.jpg"},
+  {"title":"advice mod 5","desc":"Full Story Rainbow Friends has a number of programs and services that are designed to meet the unique needs of the LGBTQ+ community. These include:","photo":"https://iili.io/HU309KF.jpg"},
+  {"title":"helper pack 6","desc":"Support groups: Full Story Rainbow Friends offers support groups for individuals who identify as transgender or gender non-conforming. These groups provide a safe and supportive space for people to connect with others who are going through similar experiences.","photo":"https://iili.io/HU30Hcg.jpg"},
+  {"title":"advance mod 7","desc":"Advocacy: Full Story Rainbow Friends advocates for the rights and needs of the LGBTQ+ community. The organization works to raise awareness about issues facing the community and to advocate for policy changes that will improve the lives of LGBTQ+ individuals.","photo":"https://iili.io/HU30JSa.jpg"},
+  {"title":"how to use this app 8","desc":"Education: Full Story Rainbow Friends provides education and training to individuals and organizations on topics related to the LGBTQ+ community. This includes workshops and training sessions on topics such as gender identity, sexual orientation, and LGBTQ+ cultural competency.","photo":"https://iili.io/HU309KF.jpg"}
    ]
  
 }
